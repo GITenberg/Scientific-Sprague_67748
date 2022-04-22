@@ -1,0 +1,39 @@
+_repo: Scientific-Sprague_67748
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shrader, E. Roscoe (Edwin Roscoe)
+    alias: Shrader, Edwin Roscoe
+    birthdate: 1879
+    deathdate: 1960
+    gutenberg_agent_id: '42827'
+    url: http://www.gutenberg.org/2009/agents/42827
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Lynde
+description: ''
+gutenberg_issued: '2022-04-01'
+identifiers:
+  gutenberg: '67748'
+language: en
+pgterms:marc904: https://archive.org/details/ScientificSprague/mode/2up
+pgterms:marc905: 20210526080235lynde
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: D A Alexander, with thanks to the University of Colorado, Boulder,
+  for providing a scan of the cover, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was made using scans of public domain works put
+  online by Harvard University Library's Open Collections Program.)
+publication_note: United States :Chas. Scribner's Sons,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Scientific Sprague
+url: http://www.gutenberg.org/ebooks/67748
